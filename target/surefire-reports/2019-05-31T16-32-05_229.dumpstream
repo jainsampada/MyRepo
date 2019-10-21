@@ -1,0 +1,4 @@
+# Created at 2019-05-31T16:32:07.644
+Boot Manifest-JAR contains absolute paths in classpath 'D:\E drive data\Java\JavaDemo\com.facebook.Maven\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
